@@ -1,0 +1,378 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+body {
+    font-family: Roboto;
+    background-color: rgb(192, 192, 192);
+    margin: -5px;
+}
+
+.header {
+    background-color: rgb(0, 0, 0);
+}
+
+.logo{
+    height: 200px;
+    padding-left: 475px;
+}
+
+.container-links { 
+    display: flex;
+    justify-content: center;
+
+}
+
+.box-names {
+    background-color: rgb(255, 255, 255); 
+    width: 150px; 
+    height: 50px; 
+    font-size: 25px;
+    margin: 10px; 
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    transition: all 1s linear;
+}
+
+.box-names:hover {
+    opacity: .5;
+    transition: .9s;
+}
+
+.box-PSX {
+    background-color: rgb(255, 255, 255); 
+    width: 200px; 
+    height: 50px; 
+    font-size: 25px;
+    margin: 10px; 
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    transition: all 1s linear;
+}
+
+.box-PSX:hover {
+    opacity: .5;
+    transition: .9s;
+}
+
+.box-GD {
+    background-color: rgb(255, 255, 255); 
+    width: 200px; 
+    height: 50px; 
+    font-size: 25px;
+    margin: 10px; 
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    transition: all 1s linear;
+}
+
+.box-GD:hover {
+    opacity: .5;
+    transition: .9s;
+}
+
+.SiteBody {
+    background-color: rgb(192, 192, 192);
+}
+
+.RB-LOGO {
+    padding-left: 475px;
+}
+
+.h1-1 {
+    text-align: center;
+}
+
+.h2-1 {
+    text-align: center;
+}
+
+.h3-1 {
+    text-align: center;
+}
+
+.WFF-BOX {
+    justify-content: center;
+}
+
+.WFF-IMG {
+    padding-left: 550px;
+    height: 400px;
+}
+
+.WFF-HTG {
+    text-align: center;
+}
+
+.code-1 {
+    text-align: center;
+    font-size: 23px;
+}
+
+.COEG-IMG {
+    padding-left: 615px;
+    height: 300px;
+}
+
+.PH-IMG {
+    padding-left: 620px;
+    height: 320px;
+}
+
+.SF-IMG {
+    padding-left: 620px;
+    height: 320px;
+}
+
+.KT-IMG {
+    padding-left: 610px;
+    height: 320px;
+}
+
+.SC-IMG {
+    padding-left: 610px;
+    height: 320px;
+}
+
+.TBS-IMG {
+    padding-left: 610px;
+    height: 320px;
+}
+
+.PSX-logo {
+    height: 230px;
+    padding-left: 650px;
+}
+
+.GingerB-psx-IMG {
+    padding-left: 610px;
+    height: 320px;
+}
+
+.TripleD-psx-IMG {
+    padding-left: 640px;
+    height: 320px;
+}
+
+.TripleC-psx-IMG {
+    padding-left: 640px;
+    height: 320px;
+}
+
+.GD-logo {
+    padding-left: 370px;
+}
+
+.Keymasterpng {
+    padding-left: 670px;
+}
+
+.Cube1-gd-IMG {
+    padding-left: 640px;
+    height: 250px;
+}
+
+.Cube2-gd-IMG {
+    padding-left: 640px;
+    height: 250px;
+}
+
+.Cube3-gd-IMG {
+    padding-left: 640px;
+    height: 250px;
+}
+
+.Cube4-gd-IMG {
+    padding-left: 640px;
+    height: 250px;
+}
+
+.Cube5-gd-IMG {
+    padding-left: 640px;
+    height: 250px;
+}
+
+.Color1-gd-IMG {
+    padding-left: 640px;
+    height: 250px;
+}
+
+.Color2-gd-IMG {
+    padding-left: 640px;
+    height: 250px;
+}
+
+.Video1 {
+    Display: flex;
+    Align-items: center;
+    Justify-content: center;
+}
+
+.Cube6-gd-IMG {
+    padding-left: 640px;
+    height: 250px;
+}
+
+.Cube7-gd-IMG {
+    padding-left: 640px;
+    height: 250px;
+}
+
+.Cube8-gd-IMG {
+    padding-left: 640px;
+    height: 250px;
+}
+
+.Ship1-gd-IMG {
+    padding-left: 620px;
+    height: 200px;
+}
+
+.UFO1-gd-IMG {
+    padding-left: 620px;
+    height: 150px;
+}
+
+.UFO2-gd-IMG {
+    padding-left: 600px;
+    height: 150px;
+}
+
+.Robot1-gd-IMG {
+    padding-left: 660px;
+    height: 230px;
+}
+
+.Wave1-gd-IMG {
+    padding-left: 650px;
+    height: 250px;
+}
+
+.Wave2-gd-IMG {
+    padding-left: 650px;
+    height: 250px;
+}
+
+.Trail1-gd-IMG {
+    padding-left: 640px;
+    height: 250px;
+}
+
+.Cube9-gd-IMG {
+    padding-left: 640px;
+    height: 250px;
+}
+
+.Cube10-gd-IMG {
+    padding-left: 640px;
+    height: 250px;
+}
+
+.Cube11-gd-IMG {
+    padding-left: 640px;
+    height: 250px;
+}
+
+.Wave3-gd-IMG {
+    padding-left: 660px;
+    height: 250px;
+}
+
+.Color3-gd-IMG {
+    padding-left: 640px;
+    height: 250px;
+}
+
+.Beatstar-logo {
+    height: 230px;
+    padding-left: 650px;
+}
+
+.BEST-Link {
+    transition: all 1s linear;
+}
+
+.BEST-Link:hover {
+    color: rgb(0, 47, 100);
+    transition: .9s;
+}
+
+.AltC1-beat-IMG {
+    padding-left: 600px;
+    height: 320px;
+}
+
+.HardC1-beat-IMG {
+    padding-left: 600px;
+    height: 320px;
+}
+
+.Gem-beat-IMG {
+    padding-left: 590px;
+    height: 320px;
+}
+
+.UnlimPlay-beat-IMG {
+    padding-left: 530px;
+    height: 320px;
+}
+
+.Bonus {
+    height: 140px;
+    padding-left: 530px;
+}
+
+.Google-Logo {
+    height: 150px;
+    padding-left: 550px;
+}
+
+
+.YT-Logo {
+    height: 100px;
+    padding-left: 530px;
+}
+
+.Discord-Logo {
+    height: 200px;
+    padding-left: 665px;
+}
+
+.h1-que {
+    font-family: Lilita One;
+    text-align: center;
+    font-size: 80px;
+}
+
+.p-1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.Code-Box {
+    height: 50px;
+    padding-left: 650px;
+}
+
+.PetsButton {
+    height: 100px;
+    padding-left: 720px;
+}
+
+.RedeemCodes {
+    height: 200px;
+    padding-left: 500px;
+}
+
+.RedeemCodesMenu {
+    height: 250px;
+    padding-left: 580px;
+}
